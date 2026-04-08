@@ -46,3 +46,4 @@ Platforms: Genesys Cloud, Archy, Claude
 ## Timeline
 
 - 2026-04-01: Add call forensic report with IVR and agent detail
+- 2026-04-08: Fetch and parse SIP traces in call investigation
