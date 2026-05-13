@@ -42,3 +42,4 @@ Platforms: Microsoft Teams, Azure Bot Service, Azure Container Apps, Azure AI Fo
 ## Timeline
 
 - 2026-05-12: Add hosted agent and workflow for phone lookups
+- 2026-05-13: Ship hosted assistant agent and swap its model
