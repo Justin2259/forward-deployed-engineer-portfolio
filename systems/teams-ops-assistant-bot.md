@@ -45,3 +45,4 @@ Platforms: Microsoft Teams, Azure Bot Service, Azure Container Apps, Azure AI Fo
 - 2026-05-13: Ship hosted assistant agent and swap its model
 - 2026-05-14: Trial low-code chat front end and app side-loading
 - 2026-05-19: Port investigation tools to the bot at full parity
+- 2026-05-21: Rebuild bot to call the model directly with its own tools
