@@ -60,3 +60,4 @@ Platforms: Genesys Cloud, tracking-sheet API
 ## Timeline
 
 - 2026-04-27: Fix location user provisioning hang in chat tool
+- 2026-05-22: Stop blind retries after a bulk number update left orphans
