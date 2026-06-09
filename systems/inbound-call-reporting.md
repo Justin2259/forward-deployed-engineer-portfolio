@@ -44,3 +44,4 @@ Platforms: Genesys Cloud, AWS DynamoDB, SQL Server, Power BI, Claude, Playwright
 ## Timeline
 
 - 2026-04-06: Add weekly group call summary report
+- 2026-06-09: Inventory call flows and reconcile funnel from flow data
