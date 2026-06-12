@@ -42,3 +42,4 @@ Platforms: Genesys Cloud, Azure AI Foundry, Claude, Azure Container Apps Jobs, M
 
 - 2026-04-30: Create read-only API client for help desk reporting
 - 2026-05-11: Rebuild help desk report with number and member queries
+- 2026-06-12: Port help desk report to cloud job in parity mode
