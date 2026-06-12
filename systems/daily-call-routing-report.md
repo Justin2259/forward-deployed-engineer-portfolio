@@ -40,3 +40,4 @@ Platforms: Genesys Cloud, Azure Container Apps Jobs, Microsoft Graph, Key Vault,
 ## Timeline
 
 - 2026-06-11: Pilot routing report as a scheduled cloud job
+- 2026-06-12: Promote routing report to production after stability test
