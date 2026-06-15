@@ -42,3 +42,4 @@ Platforms: Genesys Cloud, Azure Container Apps Jobs, Key Vault, Managed Identity
 
 - 2026-01-14: Create least-privilege API client for outbound feed
 - 2026-02-02: Create production API client for outbound feed
+- 2026-06-15: Port outbound feed to cloud job and cut over after parity
