@@ -43,3 +43,4 @@ Platforms: Genesys Cloud, Azure Container Apps Jobs, Azure Blob Storage, Microso
 ## Timeline
 
 - 2026-06-15: Consolidate outage and SIP-flap alerts into one job
+- 2026-06-16: Deploy fleet monitor with shared state storage
