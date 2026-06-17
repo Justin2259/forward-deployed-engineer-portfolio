@@ -46,3 +46,4 @@ Platforms: Microsoft Teams, Azure Bot Service, Azure Container Apps, Azure AI Fo
 - 2026-05-14: Trial low-code chat front end and app side-loading
 - 2026-05-19: Port investigation tools to the bot at full parity
 - 2026-05-21: Rebuild bot to call the model directly with its own tools
+- 2026-06-17: Wire bot secrets to Key Vault references
