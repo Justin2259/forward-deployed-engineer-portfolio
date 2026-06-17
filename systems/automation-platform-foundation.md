@@ -48,3 +48,4 @@ Platforms: Azure Container Apps, Azure Container Apps Jobs, Azure Container Regi
 - 2026-04-30: Retire serverless host and consolidate the tools platform
 - 2026-05-12: Design single resource group architecture for AI workloads
 - 2026-06-10: Inventory workflow estate and shrink bloated workflow database
+- 2026-06-17: Seed platform repo with IaC, Key Vault module and job scaffold
