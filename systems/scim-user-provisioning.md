@@ -46,3 +46,4 @@ Platforms: Genesys Cloud, Azure Container Apps, Azure Container Apps Jobs, Azure
 
 - 2026-06-18: Design provisioning service and SOP-driven user lifecycle
 - 2026-06-22: Deploy provisioning service and load secrets to vault
+- 2026-06-23: Validate department-aware create, edit and terminate
