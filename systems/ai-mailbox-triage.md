@@ -43,3 +43,4 @@ Platforms: Microsoft Graph, Exchange RBAC for Applications, Azure AI Foundry, Cl
 
 - 2026-06-23: Mine routing requests and define mailbox triage contract
 - 2026-06-24: Build mailbox monitor with classifier and approval cards
+- 2026-06-26: Roll out mailbox triage to the full team
