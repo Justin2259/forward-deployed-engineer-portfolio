@@ -60,3 +60,4 @@ Platforms: Claude Code, GitHub Copilot
 
 - 2026-05-11: Adopt skills-first agent instructions across the workspace
 - 2026-06-23: Write shared-resource change protocol after an outage
+- 2026-06-30: Add concurrent-session ledger for parallel agent work
