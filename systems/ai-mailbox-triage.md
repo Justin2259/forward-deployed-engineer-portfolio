@@ -45,3 +45,4 @@ Platforms: Microsoft Graph, Exchange RBAC for Applications, Azure AI Foundry, Cl
 - 2026-06-24: Build mailbox monitor with classifier and approval cards
 - 2026-06-26: Roll out mailbox triage to the full team
 - 2026-06-30: Restore mail permissions after a failed lockdown attempt
+- 2026-07-02: Stop monitor from dropping replies in automated threads
