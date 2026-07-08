@@ -48,3 +48,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-04-01: Add call forensic report with IVR and agent detail
 - 2026-04-08: Fetch and parse SIP traces in call investigation
 - 2026-06-25: Move first wave of numbers between IVRs in safe batches
+- 2026-07-08: Package call investigation as a self-contained skill
