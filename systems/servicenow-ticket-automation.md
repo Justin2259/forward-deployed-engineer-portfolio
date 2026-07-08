@@ -53,3 +53,4 @@ Platforms: ServiceNow, Claude, Claude Code
 ## Timeline
 
 - 2026-05-04: Add read-only ticket sandbox toolkit with enrichment
+- 2026-07-08: Consolidate ticket report and sandbox tools into a skill
