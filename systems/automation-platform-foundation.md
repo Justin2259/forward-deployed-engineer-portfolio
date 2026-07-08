@@ -51,3 +51,4 @@ Platforms: Azure Container Apps, Azure Container Apps Jobs, Azure Container Regi
 - 2026-06-17: Seed platform repo with IaC, Key Vault module and job scaffold
 - 2026-06-18: Merge Key Vault secret references into the platform deploy
 - 2026-06-30: Audit cloud footprint and publish shared state reference
+- 2026-07-08: Retire legacy self-hosted tools platform
