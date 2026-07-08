@@ -62,3 +62,4 @@ Platforms: Genesys Cloud, tracking-sheet API
 - 2026-04-27: Fix location user provisioning hang in chat tool
 - 2026-05-22: Stop blind retries after a bulk number update left orphans
 - 2026-07-07: Harden user and phone step; gate builds on real numbers
+- 2026-07-08: Consolidate location buildout into one skill; ship two
