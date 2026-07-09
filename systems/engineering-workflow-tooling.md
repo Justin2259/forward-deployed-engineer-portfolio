@@ -53,3 +53,4 @@ Platforms: Azure DevOps, Microsoft Outlook, Azure Monitor, Azure CLI, Azure AI F
 - 2026-04-30: Mirror platform API docs into a local searchable corpus
 - 2026-05-20: Add skill that files backlog work items from a session
 - 2026-07-08: Migrate script clusters into self-contained skills
+- 2026-07-09: Move skill fleet and cloud deployment into new workspace
