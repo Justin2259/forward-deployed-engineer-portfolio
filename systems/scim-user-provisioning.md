@@ -49,3 +49,4 @@ Platforms: Genesys Cloud, Azure Container Apps, Azure Container Apps Jobs, Azure
 - 2026-06-23: Validate department-aware create, edit and terminate
 - 2026-06-29: Pass full lifecycle test plan and switch off shadow mode
 - 2026-06-30: Write provisioning session handoff and status audit
+- 2026-07-13: Write real-account test cases for provisioning
