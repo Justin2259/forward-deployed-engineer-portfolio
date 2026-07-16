@@ -42,3 +42,4 @@ Platforms: Genesys Cloud, branded caller ID provider API
 
 - 2026-07-08: Build read-only branded-calling inventory client
 - 2026-07-09: Sweep branded-calling API for programs and numbers
+- 2026-07-16: Baseline caller-ID validation from carrier export
