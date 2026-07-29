@@ -44,3 +44,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 ## Timeline
 
 - 2026-07-27: Prototype call grading from transcripts and structured data
+- 2026-07-29: Run transcription bake-off and wire scheduling API data
