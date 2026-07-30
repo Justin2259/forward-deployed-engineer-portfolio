@@ -51,3 +51,4 @@ Platforms: Genesys Cloud, Poly and Polycom VVX, Claude
 ## Timeline
 
 - 2026-07-08: Diagnose phantom auto-dialing from a failing keypad
+- 2026-07-30: Trace wrong-location ringing to phone identity drift
