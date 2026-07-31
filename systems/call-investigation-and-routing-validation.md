@@ -50,3 +50,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-06-25: Move first wave of numbers between IVRs in safe batches
 - 2026-07-08: Package call investigation as a self-contained skill
 - 2026-07-30: Bulk-move numbers between IVRs and verify every route
+- 2026-07-31: Add routing change validation by queue membership
