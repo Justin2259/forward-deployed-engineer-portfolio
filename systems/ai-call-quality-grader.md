@@ -47,3 +47,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-07-29: Run transcription bake-off and wire scheduling API data
 - 2026-07-30: Align word timestamps to speaker turns; add live grading tool
 - 2026-08-03: Ingest reviewer exports and compare AI and human grades
+- 2026-08-06: Lock grading ruleset and wire nearest-location check
