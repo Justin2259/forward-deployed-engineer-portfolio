@@ -42,3 +42,4 @@ Platforms: Azure AI Foundry, Claude, Whisper, Microsoft Entra ID, Key Vault, Man
 ## Timeline
 
 - 2026-07-15: Deploy in-tenant Claude models and route coding assistant
+- 2026-08-10: Deploy shared speech-to-text model in the tenant
