@@ -43,3 +43,4 @@ Platforms: Genesys Cloud, Microsoft Graph, Exchange Online RBAC for Applications
 ## Timeline
 
 - 2026-08-10: Build voicemail line flow and transcription prototype
+- 2026-08-11: Add transcription container job for group voicemail
