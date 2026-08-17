@@ -53,3 +53,4 @@ Platforms: Genesys Cloud, Poly and Polycom VVX, Claude
 - 2026-07-08: Diagnose phantom auto-dialing from a failing keypad
 - 2026-07-30: Trace wrong-location ringing to phone identity drift
 - 2026-07-31: Fix group busy tone caused by wrong telephony site
+- 2026-08-17: Diagnose single-phone ringing from SIP response codes
