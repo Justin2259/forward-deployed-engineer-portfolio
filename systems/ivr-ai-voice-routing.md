@@ -49,3 +49,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 
 - 2026-07-29: Build on-demand test harness for AI voice routing
 - 2026-08-07: Trace intermittent AI voice routing to a wait-time gate
+- 2026-08-17: Document SIP bridge requirements for AI voice handoff
