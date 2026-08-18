@@ -48,3 +48,4 @@ Platforms: Genesys Cloud, AWS DynamoDB, SQL Server, Power BI, Claude, Playwright
 - 2026-06-19: Build weekly AI voice agent call-funnel report skill
 - 2026-07-02: Rebuild location phone report query and validate it
 - 2026-08-11: Report AI voice outcomes by queue and flow outcome
+- 2026-08-18: Measure AI agent pickup time from queue segments
