@@ -55,3 +55,4 @@ Platforms: Azure DevOps, Microsoft Outlook, Azure Monitor, Azure CLI, Azure AI F
 - 2026-07-08: Migrate script clusters into self-contained skills
 - 2026-07-09: Move skill fleet and cloud deployment into new workspace
 - 2026-08-10: Install flow-as-code CLI and verify export with app auth
+- 2026-08-19: Make agent hooks work across two coding assistants
