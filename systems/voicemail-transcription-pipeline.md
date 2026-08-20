@@ -46,3 +46,4 @@ Platforms: Genesys Cloud, Microsoft Graph, Exchange Online RBAC for Applications
 - 2026-08-11: Add transcription container job for group voicemail
 - 2026-08-12: Harden transcriber with singleton lock and local time
 - 2026-08-13: Validate attachment bytes and fix outbound filename
+- 2026-08-20: Ship voicemail line to production under change control
