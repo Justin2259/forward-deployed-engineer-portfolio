@@ -55,3 +55,4 @@ Platforms: Genesys Cloud, Poly and Polycom VVX, Claude
 - 2026-07-31: Fix group busy tone caused by wrong telephony site
 - 2026-08-17: Diagnose single-phone ringing from SIP response codes
 - 2026-08-24: Detect duplicate SIP registrations behind line mismatches
+- 2026-08-26: Restore a wiped extension and trace a forwarding loop
