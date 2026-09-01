@@ -52,3 +52,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-08-13: Create grader API client and file cloud security review
 - 2026-08-25: Port grader to a laptop-free scheduled cloud run
 - 2026-08-26: Deploy and validate live grading pipeline in the cloud
+- 2026-09-01: Align full-Whisper transcripts and re-validate grading
