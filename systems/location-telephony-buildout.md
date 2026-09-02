@@ -65,3 +65,4 @@ Platforms: Genesys Cloud, tracking-sheet API
 - 2026-07-08: Consolidate location buildout into one skill; ship two
 - 2026-08-29: Bulk-build locations and map address verification limits
 - 2026-08-31: Fix group extensions that collapsed to an emergency code
+- 2026-09-02: Require verified address in location idempotency check
