@@ -54,3 +54,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-08-26: Deploy and validate live grading pipeline in the cloud
 - 2026-09-01: Align full-Whisper transcripts and re-validate grading
 - 2026-09-03: Measure rule changes against re-adjudicated reviewer truth
+- 2026-09-08: Preflight dashboard integration from reviewer sync notes
