@@ -51,3 +51,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-07-08: Package call investigation as a self-contained skill
 - 2026-07-30: Bulk-move numbers between IVRs and verify every route
 - 2026-07-31: Add routing change validation by queue membership
+- 2026-09-11: Capture and diff a restructured IVR against baseline
