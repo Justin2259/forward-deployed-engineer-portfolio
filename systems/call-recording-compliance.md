@@ -46,3 +46,4 @@ Platforms: Genesys Cloud CX, Python
 ## Timeline
 
 - 2026-09-11: Enable recording policy for a help desk work team
+- 2026-09-14: Extend call recording to two more IT teams
