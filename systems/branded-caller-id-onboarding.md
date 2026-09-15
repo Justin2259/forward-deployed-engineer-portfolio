@@ -45,3 +45,4 @@ Platforms: Genesys Cloud, branded caller ID provider API
 - 2026-07-16: Baseline caller-ID validation from carrier export
 - 2026-07-29: Trace spam labels to toll-free numbers used as caller ID
 - 2026-09-08: Model branding pricing tiers and phone-side features
+- 2026-09-15: Map portal backend and correct the branding lapse timeline
