@@ -52,3 +52,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-07-30: Bulk-move numbers between IVRs and verify every route
 - 2026-07-31: Add routing change validation by queue membership
 - 2026-09-11: Capture and diff a restructured IVR against baseline
+- 2026-09-16: Prove IVR restructure findings with static and live data
