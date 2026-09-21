@@ -44,3 +44,4 @@ Platforms: baresip, dnsmasq, faster-whisper, Genesys Cloud, Azure Container Apps
 ## Timeline
 
 - 2026-09-17: Build SIP caller bot with local Whisper and verdicts
+- 2026-09-21: Move IVR caller bot into an on-demand container job
