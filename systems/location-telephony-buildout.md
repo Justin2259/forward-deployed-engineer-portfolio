@@ -67,3 +67,4 @@ Platforms: Genesys Cloud, tracking-sheet API
 - 2026-08-31: Fix group extensions that collapsed to an emergency code
 - 2026-09-02: Require verified address in location idempotency check
 - 2026-09-18: Require voicemail user and agent on every build
+- 2026-09-21: Make external contact creation idempotent
