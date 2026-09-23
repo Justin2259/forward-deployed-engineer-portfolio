@@ -59,3 +59,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-09-11: Prototype detection of transfers without a booking attempt
 - 2026-09-16: Build side-by-side grader on a low-code AI platform
 - 2026-09-17: Compare grader backends on cost, quality and transcription
+- 2026-09-23: Recalibrate grading rules from reviewer dashboard feedback
