@@ -61,3 +61,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-09-17: Compare grader backends on cost, quality and transcription
 - 2026-09-23: Recalibrate grading rules from reviewer dashboard feedback
 - 2026-09-24: Grade the survey checkpoint and restore dashboard formulas
+- 2026-09-28: Add on-demand runs, cost ledger and weekly autorun
