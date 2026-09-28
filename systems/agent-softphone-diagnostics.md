@@ -46,3 +46,4 @@ Platforms: Genesys Cloud CX, Python
 
 - 2026-09-15: Correlate login audit with presence to explain sign-outs
 - 2026-09-16: Trace agent off-queue flips to sleeping browser tabs
+- 2026-09-28: Script browser keep-alive fix for agent fleet
