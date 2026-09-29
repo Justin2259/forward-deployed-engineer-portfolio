@@ -52,3 +52,4 @@ Platforms: Azure Container Apps, Azure Container Apps Jobs, Azure Container Regi
 - 2026-06-18: Merge Key Vault secret references into the platform deploy
 - 2026-06-30: Audit cloud footprint and publish shared state reference
 - 2026-07-08: Retire legacy self-hosted tools platform
+- 2026-09-29: Add job lease lock, shared clients and infra wiring to repo
