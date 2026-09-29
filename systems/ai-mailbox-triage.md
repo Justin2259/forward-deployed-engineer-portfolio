@@ -47,3 +47,4 @@ Platforms: Microsoft Graph, Exchange RBAC for Applications, Azure AI Foundry, Cl
 - 2026-06-30: Restore mail permissions after a failed lockdown attempt
 - 2026-07-02: Stop monitor from dropping replies in automated threads
 - 2026-07-13: Scope mail access to one mailbox via app RBAC
+- 2026-09-29: Commit mailbox monitor with incidents and kill switch
