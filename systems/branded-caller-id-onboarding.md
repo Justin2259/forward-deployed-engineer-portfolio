@@ -48,3 +48,4 @@ Platforms: Genesys Cloud, branded caller ID provider API
 - 2026-09-15: Map portal backend and correct the branding lapse timeline
 - 2026-09-28: Audit outbound caller ID config and carrier rejections
 - 2026-09-29: Reproduce branding programs through the API
+- 2026-09-30: Onboard a location to branded calling with a new skill
