@@ -55,3 +55,4 @@ Platforms: Azure Container Apps, Azure Container Apps Jobs, Azure Container Regi
 - 2026-09-29: Add job lease lock, shared clients and infra wiring to repo
 - 2026-09-29: Snapshot resource group live and start documentation pack
 - 2026-09-30: Write resource group overview with architecture diagram
+- 2026-10-01: Document per-service runbooks and capture role assignments
