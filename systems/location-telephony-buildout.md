@@ -69,3 +69,4 @@ Platforms: Genesys Cloud, tracking-sheet API
 - 2026-09-18: Require voicemail user and agent on every build
 - 2026-09-21: Make external contact creation idempotent
 - 2026-10-01: Repair a location assignment with emergency number check
+- 2026-10-02: Handle stale site reads; route group voicemail to email
