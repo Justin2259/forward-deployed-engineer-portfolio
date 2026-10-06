@@ -51,3 +51,4 @@ Platforms: Genesys Cloud, branded caller ID provider API
 - 2026-09-30: Onboard a location to branded calling with a new skill
 - 2026-10-01: Onboard another location with quote and preflight checks
 - 2026-10-05: Create an approved branding program for a location
+- 2026-10-06: Check site caller ID and quote branding for a line
