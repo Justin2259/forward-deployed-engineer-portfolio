@@ -47,3 +47,4 @@ Platforms: Genesys Cloud CX, WebRTC softphone, Architect, SIP, Python
 ## Timeline
 
 - 2026-10-07: Build browser softphone demo page and web phone user
+- 2026-10-09: Provision web phone account; watch live test calls
