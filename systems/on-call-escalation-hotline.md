@@ -47,3 +47,4 @@ Platforms: Genesys Cloud CX, Architect, Archy, Python
 ## Timeline
 
 - 2026-10-02: Build on-call escalation line proof of concept in dev
+- 2026-10-09: Route non-alert callers straight to the on-call lead
