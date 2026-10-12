@@ -39,3 +39,4 @@ Platforms: Genesys Cloud, Whisper
 ## Timeline
 
 - 2026-10-06: Identify nationwide robocall pattern and draft carrier ask
+- 2026-10-12: Select additional robocall examples for traceback
