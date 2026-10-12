@@ -52,3 +52,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 - 2026-08-17: Document SIP bridge requirements for AI voice handoff
 - 2026-09-21: Build a dedicated direct line flow to the AI voice agent
 - 2026-09-28: Add demo lines with test caller identities
+- 2026-10-12: Remove post-call survey from the AI hand-off flow
