@@ -49,3 +49,4 @@ Platforms: Genesys Cloud CX, WebRTC softphone, Architect, SIP, Python
 - 2026-10-07: Build browser softphone demo page and web phone user
 - 2026-10-09: Provision web phone account; watch live test calls
 - 2026-10-14: Ship softphone page with hangup handling
+- 2026-10-15: Open mic at page load to cut first-call lag
