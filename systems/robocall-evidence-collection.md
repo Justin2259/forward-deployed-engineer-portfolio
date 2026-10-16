@@ -41,3 +41,4 @@ Platforms: Genesys Cloud, Whisper
 - 2026-10-06: Identify nationwide robocall pattern and draft carrier ask
 - 2026-10-12: Select additional robocall examples for traceback
 - 2026-10-13: Analyze robocall caller-ID patterns across samples
+- 2026-10-16: Break down robocall volume and file carrier fraud reports
