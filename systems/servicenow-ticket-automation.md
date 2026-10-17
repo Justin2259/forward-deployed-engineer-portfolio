@@ -59,3 +59,4 @@ Platforms: ServiceNow, Claude, Claude Code
 - 2026-09-22: Find fulfilment work by journal authorship
 - 2026-10-06: Map service account visibility on the ticket instance
 - 2026-10-16: Enable production ticket API and audit closed tickets
+- 2026-10-17: Extract team ticket history for categorization
