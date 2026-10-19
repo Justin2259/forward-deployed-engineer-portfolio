@@ -60,3 +60,4 @@ Platforms: ServiceNow, Claude, Claude Code
 - 2026-10-06: Map service account visibility on the ticket instance
 - 2026-10-16: Enable production ticket API and audit closed tickets
 - 2026-10-17: Extract team ticket history for categorization
+- 2026-10-19: Build ticket taxonomy with event log and agreement checks
