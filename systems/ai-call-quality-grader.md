@@ -65,3 +65,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-09-29: Commit grader job with launcher, ledger and dashboard push
 - 2026-10-13: Refuse to grade when the roster or workbook is unreadable
 - 2026-10-14: Retry workbook reads; add cost center to run emails
+- 2026-10-19: Parallelize grading and retry transcription timeouts
