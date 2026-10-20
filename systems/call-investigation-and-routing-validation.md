@@ -56,3 +56,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-09-17: Write hands-on test runbook for the IVR restructure
 - 2026-10-14: Script timed closure routing and rehearse it in dev
 - 2026-10-15: Run and revert timed closure; verify routing restored
+- 2026-10-20: Plan IVR test bench and classify routes for testing
