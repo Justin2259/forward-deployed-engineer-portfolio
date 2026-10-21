@@ -58,3 +58,4 @@ Platforms: Genesys Cloud, Poly and Polycom VVX, Claude
 - 2026-08-26: Restore a wiped extension and trace a forwarding loop
 - 2026-08-31: Plan in-place phone model swap preserving seats
 - 2026-09-01: Migrate end-of-life desk phones in place to a new model
+- 2026-10-21: Fix oversized audit query in shop line audit
