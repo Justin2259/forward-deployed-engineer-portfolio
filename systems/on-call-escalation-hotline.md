@@ -49,3 +49,4 @@ Platforms: Genesys Cloud CX, Architect, Archy, Python
 - 2026-10-02: Build on-call escalation line proof of concept in dev
 - 2026-10-09: Route non-alert callers straight to the on-call lead
 - 2026-10-20: Add no-on-call catch-all and verify escalation
+- 2026-10-22: Build escalation line in production and pass tests
