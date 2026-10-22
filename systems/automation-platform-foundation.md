@@ -58,3 +58,4 @@ Platforms: Azure Container Apps, Azure Container Apps Jobs, Azure Container Regi
 - 2026-10-01: Document per-service runbooks and capture role assignments
 - 2026-10-16: Record landing zone decisions for AI workload hosting
 - 2026-10-19: Draft landing zone Bicep proposal and review pack
+- 2026-10-22: Inventory landing zone resources and runtime dependencies
