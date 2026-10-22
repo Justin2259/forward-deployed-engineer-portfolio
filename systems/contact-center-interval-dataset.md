@@ -39,3 +39,4 @@ Platforms: Genesys Cloud, Excel Power Query
 ## Timeline
 
 - 2026-10-21: Scope interval dataset and confirm history reach
+- 2026-10-22: Match service-level settings and time zone to UI exports
