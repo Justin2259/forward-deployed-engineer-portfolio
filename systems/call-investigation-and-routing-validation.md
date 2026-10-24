@@ -58,3 +58,4 @@ Platforms: Genesys Cloud, Archy, Claude
 - 2026-10-15: Run and revert timed closure; verify routing restored
 - 2026-10-20: Plan IVR test bench and classify routes for testing
 - 2026-10-23: Stand up bench test locations, groups and phones in dev
+- 2026-10-24: Audit routing data table against the location master
