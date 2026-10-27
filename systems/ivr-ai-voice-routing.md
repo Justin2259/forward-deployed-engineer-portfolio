@@ -56,3 +56,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 - 2026-10-19: Map every path into AI voice routing from flow exports
 - 2026-10-24: Analyze a location opt-out bypass in AI voice routing
 - 2026-10-26: Turn off language menu for one location; verify by call
+- 2026-10-27: Plan in-house Spanish AI voice pilot routing
