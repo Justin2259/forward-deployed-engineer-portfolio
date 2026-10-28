@@ -61,3 +61,4 @@ Platforms: Genesys Cloud, Poly and Polycom VVX, Claude
 - 2026-10-21: Fix oversized audit query in shop line audit
 - 2026-10-26: Check location phone errors and extend phone ops skill
 - 2026-10-27: Prove phone location by LAN subnet; extend remediation
+- 2026-10-28: Diagnose a handset forwarding calls to a short code
