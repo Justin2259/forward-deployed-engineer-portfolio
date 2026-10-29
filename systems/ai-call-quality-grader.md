@@ -67,3 +67,4 @@ Platforms: Azure Container Apps Jobs, Azure AI Foundry, Claude, Whisper, Genesys
 - 2026-10-14: Retry workbook reads; add cost center to run emails
 - 2026-10-19: Parallelize grading and retry transcription timeouts
 - 2026-10-27: Never resend a dashboard batch that a timeout already wrote
+- 2026-10-29: Build query-fed dashboard copy from grader output
