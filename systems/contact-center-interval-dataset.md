@@ -41,3 +41,4 @@ Platforms: Genesys Cloud, Excel Power Query
 - 2026-10-21: Scope interval dataset and confirm history reach
 - 2026-10-22: Match service-level settings and time zone to UI exports
 - 2026-10-23: Verify language tags from flow traces; plan readme tabs
+- 2026-10-29: Build interval dataset skill with raw store and verify
