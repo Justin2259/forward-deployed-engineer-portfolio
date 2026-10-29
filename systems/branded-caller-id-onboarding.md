@@ -54,3 +54,4 @@ Platforms: Genesys Cloud, branded caller ID provider API
 - 2026-10-06: Check site caller ID and quote branding for a line
 - 2026-10-09: Verify carrier rejections after branding enrollment
 - 2026-10-14: Build branding program for headquarters lines
+- 2026-10-29: Register all location numbers for free carrier vetting
