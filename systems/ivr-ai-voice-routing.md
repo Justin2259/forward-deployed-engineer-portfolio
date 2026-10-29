@@ -58,3 +58,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 - 2026-10-26: Turn off language menu for one location; verify by call
 - 2026-10-27: Plan in-house Spanish AI voice pilot routing
 - 2026-10-28: Define Spanish pilot decision table and queue design
+- 2026-10-29: Settle IVR cleanup handover and contact naming rules
