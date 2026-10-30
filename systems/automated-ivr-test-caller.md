@@ -47,3 +47,4 @@ Platforms: baresip, dnsmasq, faster-whisper, Genesys Cloud, Azure Container Apps
 - 2026-09-21: Move IVR caller bot into an on-demand container job
 - 2026-09-29: Commit IVR caller bot job to the platform repo
 - 2026-10-06: Design a conversational voice QA agent
+- 2026-10-30: Update bot dev client; scope two-sided test harness
