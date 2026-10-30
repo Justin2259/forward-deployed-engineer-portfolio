@@ -51,3 +51,4 @@ Platforms: Genesys Cloud CX, WebRTC softphone, Architect, SIP, Python
 - 2026-10-14: Ship softphone page with hangup handling
 - 2026-10-15: Open mic at page load to cut first-call lag
 - 2026-10-19: Consolidate kiosk handoff and file tracking story
+- 2026-10-30: Review event results across booth calls
