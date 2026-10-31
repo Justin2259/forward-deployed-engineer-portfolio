@@ -60,3 +60,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 - 2026-10-28: Define Spanish pilot decision table and queue design
 - 2026-10-29: Settle IVR cleanup handover and contact naming rules
 - 2026-10-30: Build Spanish AI voice routing in dev and prove a call
+- 2026-10-31: Publish IVR cleanup steps in dev
