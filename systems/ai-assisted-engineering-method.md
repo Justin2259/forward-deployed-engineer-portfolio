@@ -63,3 +63,4 @@ Platforms: Claude Code, GitHub Copilot
 - 2026-06-30: Add concurrent-session ledger for parallel agent work
 - 2026-07-09: Publish generic agent starter kit with rules and hooks
 - 2026-09-15: Analyze agent session cost and define context strategy
+- 2026-11-03: Codify team standing rules for agent sessions
