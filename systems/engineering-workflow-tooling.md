@@ -60,3 +60,4 @@ Platforms: Azure DevOps, Microsoft Outlook, Azure Monitor, Azure CLI, Azure AI F
 - 2026-10-14: Scaffold team assistant workspace with harness hooks
 - 2026-10-20: Make work-item skill create items then walk states
 - 2026-11-02: Add three-way sync and share export for team workspace
+- 2026-11-03: Add org inventory skill and per-user API client setup
