@@ -43,3 +43,4 @@ Platforms: Genesys Cloud, Excel Power Query
 - 2026-10-23: Verify language tags from flow traces; plan readme tabs
 - 2026-10-29: Build interval dataset skill with raw store and verify
 - 2026-10-30: Verify every dataset cell against platform aggregates
+- 2026-11-03: Deliver dataset folder and build summary workbook
