@@ -49,3 +49,4 @@ Platforms: Genesys Cloud CX, Python
 - 2026-09-14: Extend call recording to two more IT teams
 - 2026-10-08: Verify recorded call examples and close out rollout
 - 2026-11-03: Add missing team member and audit recording config
+- 2026-11-04: Investigate missing screen recordings on dialer calls
