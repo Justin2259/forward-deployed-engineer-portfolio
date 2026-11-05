@@ -62,3 +62,4 @@ Platforms: ServiceNow, Claude, Claude Code
 - 2026-10-17: Extract team ticket history for categorization
 - 2026-10-19: Build ticket taxonomy with event log and agreement checks
 - 2026-10-23: Extend ticket extract to the full queue with team timing
+- 2026-11-05: Reassign and resolve cases through ticket automation
