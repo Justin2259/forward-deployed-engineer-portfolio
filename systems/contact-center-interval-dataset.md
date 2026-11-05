@@ -44,3 +44,4 @@ Platforms: Genesys Cloud, Excel Power Query
 - 2026-10-29: Build interval dataset skill with raw store and verify
 - 2026-10-30: Verify every dataset cell against platform aggregates
 - 2026-11-03: Deliver dataset folder and build summary workbook
+- 2026-11-05: Package local self-serve refresh tool with PKCE sign-in
