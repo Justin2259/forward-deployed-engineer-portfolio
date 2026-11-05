@@ -63,3 +63,4 @@ Platforms: Genesys Cloud CX, Architect, SIP, Archy, Python, Whisper
 - 2026-10-31: Publish IVR cleanup steps in dev
 - 2026-11-02: Build human UAT test pack; fix voicemail menu path
 - 2026-11-04: Audit dialer flow collision before release cutover
+- 2026-11-05: Enable AI voice routing for three locations
