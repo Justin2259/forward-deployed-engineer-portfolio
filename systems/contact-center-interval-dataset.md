@@ -45,3 +45,4 @@ Platforms: Genesys Cloud, Excel Power Query
 - 2026-10-30: Verify every dataset cell against platform aggregates
 - 2026-11-03: Deliver dataset folder and build summary workbook
 - 2026-11-05: Package local self-serve refresh tool with PKCE sign-in
+- 2026-11-06: Pass next-day self-serve run and diagnose launch block
