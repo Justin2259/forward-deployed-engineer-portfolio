@@ -12,9 +12,9 @@ History note: this repository's history was rebuilt from my work log, with each 
 
 ## Highlights
 
-- **12 cloud jobs, 2 always-on services and 42 agent skills** built and run in production on Azure and Claude, each with dry-run gates, measured accuracy and change control.
-- **LLM call-quality grader with an evaluation framework:** agreement with human QA reviewers raised from 78.9% to 90.2% after recalibration, with temperature 0 scoring, forced tool calls and a regression gate on every rubric change. [Read more](systems/ai-call-quality-grader.md)
-- **Migrations proven before cutover:** byte-identical parity with the legacy workflow output before every production switch. [Read more](systems/wfm-outbound-call-feed.md)
+- **12 cloud jobs, 2 always-on services and 40+ agent skills** built and run in production on Azure and Claude, each with dry-run gates, measured accuracy and change control.
+- **LLM call-quality grader with an evaluation framework:** 90.2% agreement with human QA reviewers on a 389-cell adjudicated gold set, after finding that answer-key errors were hiding 11 points; temperature 0 scoring, forced tool calls and a regression gate on every rubric change. [Read more](systems/ai-call-quality-grader.md)
+- **Migration proven before cutover:** the workforce-management feed was byte-identical to the legacy workflow before it was switched over. [Read more](systems/wfm-outbound-call-feed.md)
 - **An AI-assisted engineering method** where every agent skill pairs a contract the LLM reads with deterministic scripts, because per-step accuracy compounds. [Read more](systems/ai-assisted-engineering-method.md)
 
 ## Skills and where they are shown
