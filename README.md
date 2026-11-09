@@ -2,7 +2,7 @@
 
 **Forward Deployed and Applied AI Engineer with a contact-center backbone.** I build production LLM systems, AI agents and AI voice agent integrations on enterprise contact-center platforms (Genesys Cloud CX), Azure AI Foundry and Claude, and I build with Claude Code every day. The work runs from technical discovery and system design through implementation, testing and operating it in production.
 
-[LinkedIn](https://www.linkedin.com/in/justin-larpenteur) | [Vonimate](https://vonimate.com)
+[LinkedIn](https://www.linkedin.com/in/justinlarpenteur) | [Vonimate](https://vonimate.com)
 
 ## What this repository is
 
